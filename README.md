@@ -10,7 +10,7 @@ You can interact with the deployed model here:
 <!-- Cover -->
 <br />
 <div>
-   <img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://i.imgur.com/zlihdJL.jpeg" />   
+   <img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://i.imgur.com/2u67gYU.jpeg" />   
 </div>
 
 ---
